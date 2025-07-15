@@ -25,13 +25,20 @@ AI 기술의 실무 적용 가능성을 검토하고, 내부 역량 강화를 �
 
 ## 📂 프로젝트 구조 (예정)
 📦 imk-ai-poc/
-├── backend/ # GPT API 연동 백엔드 (Java, Spring Boot)
-├── local-llm/ # Ollama 등 로컬 LLM 실험 폴더
-├── ai-models/ # Python 기반 커스텀 모델 개발 폴더
-├── docs/ # 기획서, 회의록, 발표자료 등
-├── README.md
-├── .gitignore
-└── LICENSE
+              ├── backend/ # GPT API 연동 백엔드 (Java, Spring Boot)
+
+              ├── local-llm/ # Ollama 등 로컬 LLM 실험 폴더
+
+              ├── ai-models/ # Python 기반 커스텀 모델 개발 폴더
+
+              ├── docs/ # 기획서, 회의록, 발표자료 등
+
+              ├── README.md
+
+              ├── .gitignore
+
+              └── LICENSE
+
 
 
 ---
