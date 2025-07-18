@@ -1,0 +1,5 @@
+# 추후 로컬 AI 모델용 Python 패키지 목록
+transformers
+torch
+llama-cpp-python
+ollama
