@@ -23,7 +23,7 @@ AI 기술의 실무 적용 가능성을 검토하고, 내부 역량 강화를 �
 
 ---
 
-## 📂 프로젝트 구조 (예정)
+## 📂 프로젝트 구조
 📦 imk-ai-poc/
               ├── backend/ # GPT API 연동 백엔드 (Java, Spring Boot)
 
